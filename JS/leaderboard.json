@@ -1,0 +1,60 @@
+{
+	"Li Mao":{
+		"levels":[
+			"Loochiverse",
+			"Prismatic Haze",
+			"doradura",
+			"Disruption",
+			"Niwa",
+			"ILOVECYAN",
+			"FISH FISH GODMODE",
+			"HyperSonic",
+			"Acu",
+			"Thanatophobia",
+			"My Song",
+			"Elysian Aegis",
+			"Leyak",
+			"Land of Frogs",
+			"Vitouxic",
+			"Technicolor",
+			"Deltafunk",
+			"no concept",
+			"Tsuki",
+			"Chroma",
+			"Distorzona",
+			"Tendo",
+			"Damage",
+			"Energizer",
+			"Sleepless",
+			"Windy Landscape",
+			"BEATDEMON"
+		],
+		"progs":[
+			{
+				"name":"Rust",
+				"percent":90
+			}
+		]
+	},
+	"Athani":{
+		"levels":[
+			"Glisten",
+			"Poeyeng Aeng",
+			"BEATDEMON",
+			"Ditched Machine"
+		],
+		"progs":[
+			"none"
+		]
+	},
+	"Tilu":{
+		"levels":[
+			"Acu",
+			"Ring Trick",
+			"Boops N Snoots"
+		],
+		"progs":[
+			"none"
+		]
+	}
+}
