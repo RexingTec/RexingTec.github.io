@@ -134,5 +134,22 @@
 		"progresses":[
 	
 		]
+	},
+	"NineDice Challeng":{
+		"name":"NineDice Challeng",
+		"ytcode":"sUXAaXjujmY",
+		"minimumPercent": 100,
+		"publisher":"Renn241",
+		"list":[
+			{
+				"name":"Li Mao",
+				"link":"https://www.youtube.com/watch?v=sUXAaXjujmY",
+				"hertz":"240"
+
+			}
+		],
+		"progresses":[
+	
+		]
 	}
 }
