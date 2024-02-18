@@ -1,9 +1,26 @@
 {
+	"Hostage":{
+		"name":"SAmuel koch chal",
+		"ytcode":"QmEMrQYj54o",
+		"minimumPercent": 100,
+		"publisher":"EvilEmperium",
+		"list":[
+			{
+				"name":"Li Mao",
+				"link":"https://youtu.be/rDoThZr0mO8",
+				"hertz":"280"
+
+			}
+		],
+		"progresses":[
+	
+		]
+	},
 	"SAmuel koch chal":{
 		"name":"SAmuel koch chal",
 		"ytcode":"e9-RcQHlwW8",
 		"minimumPercent": 100,
-		"publisher":"Neigefeu",
+		"publisher":"Bo",
 		"list":[
 			{
 				"name":"Li Mao",
