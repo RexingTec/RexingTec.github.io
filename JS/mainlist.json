@@ -67,23 +67,6 @@
 	
 		]
 	},
-	"Wave Challenge 5":{
-		"name":"Wave Challenge 5",
-		"ytcode":"utZWhHjSzxQ",
-		"minimumPercent": 100,
-		"publisher":"???",
-		"list":[
-			{
-				"name":"Li Mao",
-				"link":"https://youtu.be/utZWhHjSzxQ",
-				"hertz":"2.2"
-
-			}
-		],
-		"progresses":[
-	
-		]
-	},
 	"zSkay clear this":{
 		"name":"zSkay clear this",
 		"ytcode":"wZudf_Ed90",
@@ -99,6 +82,23 @@
 		],
 		"progresses":[
 	
+		]
+	},
+	"Wave Challenge 5":{
+		"name":"Wave Challenge 5",
+		"ytcode":"utZWhHjSzxQ",
+		"minimumPercent": 100,
+		"publisher":"???",
+		"list":[
+			{
+				"name":"Li Mao",
+				"link":"https://youtu.be/utZWhHjSzxQ",
+				"hertz":"2.2"
+
+			}
+		],
+		"progresses":[
+
 		]
 	},
 	"Viridian":{
