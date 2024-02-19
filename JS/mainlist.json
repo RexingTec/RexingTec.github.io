@@ -1,4 +1,21 @@
 {
+	"Corrosive Flower":{
+		"name":"Corrosive Flower",
+		"ytcode":"5i_Q2YggGkI",
+		"minimumPercent": 100,
+		"publisher":"ArtsiBurn",
+		"list":[
+			{
+				"name":"Li Mao",
+				"link":"https://youtu.be/WgvMI3zeR9E",
+				"hertz":"2.2"
+
+			}
+		],
+		"progresses":[
+	
+		]
+	},
 	"Hostage":{
 		"name":"Hostage",
 		"ytcode":"QmEMrQYj54o",
